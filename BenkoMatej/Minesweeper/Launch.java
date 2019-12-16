@@ -8,5 +8,10 @@ public class Launch {
 
         new ConsoleHandler(co);
     }
+    
+    
+    public static void meh() {
+    	System.out.println("anyway");
+    }
 
 }
